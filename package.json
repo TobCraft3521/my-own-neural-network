@@ -1,0 +1,12 @@
+{
+  "name": "custom-neural-network-1",
+  "version": "1.0.0",
+  "type":"module",
+  "description": "A custom neural network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TobCraft3521",
+  "license": "ISC"
+}
