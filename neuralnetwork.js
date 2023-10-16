@@ -27,3 +27,5 @@ export class Layer {
         return weightedInputs
     }
 }
+
+const sigmoid = (x) => 1 / (1 + Math.exp(-x))
