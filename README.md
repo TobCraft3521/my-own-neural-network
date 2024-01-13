@@ -1,2 +1,2 @@
 # My own neural network from scratch
-Yup - still in "production"
+Yup - still in "development"
